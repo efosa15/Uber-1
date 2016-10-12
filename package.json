@@ -1,0 +1,16 @@
+{
+  "name": "uber",
+  "version": "1.0.0",
+  "description": "Ride anywhere",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "userb",
+    "car",
+    "service"
+  ],
+  "author": "Probash Ranjan",
+  "license": "MIT"
+}
